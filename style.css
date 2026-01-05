@@ -1,4 +1,12 @@
-.firstclass {
-    color: aqua;
-    font-size: 50;
+
+.Example {
+display: flex;
+flex-wrap: wrap;
+
+border-color: aqua;
+justify-content: center;
+align-items: center;
+gap: 2rem;
+
+
 }
